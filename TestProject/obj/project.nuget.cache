@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xyELjhRyvs5e9X9ivlzNKtXaQ8/3smUn8SdIwZKrWJ+/kT+6di4VK5Nrbsv4O43Ng+TSAOSxZh7k7V/tIc1ueA==",
+  "success": true,
+  "projectFilePath": "Z:\\Microsoft\\Git\\TestProject\\TestProject\\TestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RL\\.nuget\\packages\\microsoft.azure.kusto.language\\10.1.0\\microsoft.azure.kusto.language.10.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
